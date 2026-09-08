@@ -1,1 +1,3 @@
-# 2026_osp_parksomin
+# readme modify
+practice 1
+hahaha
